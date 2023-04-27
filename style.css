@@ -252,7 +252,7 @@ button:focus {
 .navbar-default .navbar-brand,
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: beige;
+  color: black;
   font-size: 35px;
   font-family: "Poppins", sans-serif;
   margin-top: 0;
