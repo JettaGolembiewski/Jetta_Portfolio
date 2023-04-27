@@ -252,7 +252,7 @@ button:focus {
 .navbar-default .navbar-brand,
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: white;
+  color: beige;
   font-size: 35px;
   font-family: "Poppins", sans-serif;
   margin-top: 0;
@@ -286,7 +286,7 @@ button:focus {
 }
 
 .navbar-default .mu-menu li a {
-  color: #fff;
+  color: whitesmoke;
   font-size: 15px;
   font-weight: 400;
   padding: 0;
@@ -296,7 +296,7 @@ button:focus {
 }
 
 .navbar-default .mu-menu li a::after {
-  background-color: #fff;
+  background-color: whitesmoke;
   content: "";
   height: 2px;
   width: 100%;
@@ -313,7 +313,7 @@ button:focus {
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
   background-color: transparent;
-  color: #fff;
+  color: whitesmoke;
 }
 
 .navbar-default .mu-menu li a:hover::after,
@@ -387,7 +387,7 @@ button:focus {
 }
 
 .mu-featured-content p {
-  color: #fff;
+  color: blue;
 }
 
 .mu-featured-content a {
@@ -531,7 +531,7 @@ button:focus {
 
 .mu-resume-btn:hover,
 .mu-resume-btn:focus {
-  color: #fff;
+  color: whitesmoke;
 }
 
 /*--------------------*/
@@ -795,7 +795,7 @@ button:focus {
 }
 
 .mu-testimonials-area h2 {
-  color: #fff;
+  color: blue;
   text-align: center;
 }
 
@@ -816,7 +816,7 @@ button:focus {
 }
 
 .mu-testimonial-slide li .mu-quote-icon {
-  color: #fff;
+  color: blue;
   font-size: 16px;
   border: 1px solid #fff;
   border-radius: 50%;
@@ -827,13 +827,13 @@ button:focus {
 }
 
 .mu-testimonial-slide li p {
-  color: #fff;
+  color: blue;
   font-size: 16px;
 }
 
 .mu-ct-name {
   margin-bottom: 5px;
-  color: #fff;
+  color: blue;
   line-height: 1;
   text-transform: uppercase;
   margin-top: 30px;
