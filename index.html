@@ -33,6 +33,7 @@
 
     <!-- Main Style -->
     <link href="style.css" rel="stylesheet" />
+    
 
     <!-- Fonts -->
 
@@ -46,7 +47,9 @@
       href="https://fonts.googleapis.com/css?family=Poppins"
       rel="stylesheet"
     />
+    <link href="cookie.css" rel="stylesheet" />
 
+    
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -105,7 +108,16 @@
       </div>
     </header>
     <!-- End Header -->
-
+    <div id="cookie-popup">
+      <p>
+        By using this site you agree to the storing of cookies on your device to
+        enhance site navigation and to analyze site usage. Learn more about our
+        <a href="/Cookies.html">cookie policy</a>.
+      </p>
+      <p>
+        <button id="accept-cookies">Accept</button>
+      </p>
+    </div>
     <!-- Start Featured Slider -->
 
     <section id="mu-featured-slider">
@@ -396,6 +408,7 @@
         </div>
       </section>
       <!-- End Contact -->
+ 
     </main>
 
     <!-- End main content -->
@@ -411,9 +424,35 @@
           </p>
         </div>
       </div>
+      <div class="container">
+        <div class="mu-footer-area">
+          <p class="mu-copy-right">
+            <a rel="privacypolicy" href="PP.html">Privacy Policy</a>
+          </p>
+        </div>
+      </div>
+      <div class="container">
+        <div class="mu-footer-area">
+          <p class="mu-copy-right">
+            <a rel="Termsconditions" href="TC.html">Terms & Conditions</a>
+          </p>
+        </div>
+      </div>
+      <div class="container">
+        <div class="mu-footer-area">
+          <p class="mu-copy-right">
+            <a rel="Cookies" href="Cookies.html">Cookie Policy</a>
+          </p>
+        </div>
+      </div>
+
     </footer>
 
     <!-- End footer -->
+
+<script src="cookie.js"></script>
+
+
 
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -457,6 +496,5 @@
   gtag('config', 'G-3B0X2BQ6RJ');
 </script>
   
-
 
 </html>
