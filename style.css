@@ -286,7 +286,7 @@ button:focus {
 }
 
 .navbar-default .mu-menu li a {
-  color: whitesmoke;
+  color: black;
   font-size: 15px;
   font-weight: 400;
   padding: 0;
@@ -313,7 +313,7 @@ button:focus {
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
   background-color: transparent;
-  color: whitesmoke;
+  color: black;
 }
 
 .navbar-default .mu-menu li a:hover::after,
@@ -346,7 +346,7 @@ button:focus {
 
 .mu-featured-area h1 {
   font-size: 60px;
-  color: #fff;
+  color: black;
   font-weight: 700;
   margin-bottom: 0;
   line-height: 1;
@@ -366,7 +366,7 @@ button:focus {
 
 .mu-featured-slider p,
 #typed {
-  color: #fff;
+  color: black;
   font-size: 30px;
   font-weight: 300;
 }
@@ -374,7 +374,7 @@ button:focus {
 .mu-featured-slider span,
 #typed span,
 .typed-cursor {
-  color: #fff;
+  color: black;
   font-size: 30px;
   font-weight: 600;
 }
@@ -387,7 +387,7 @@ button:focus {
 }
 
 .mu-featured-content p {
-  color: blue;
+  color: black;
 }
 
 .mu-featured-content a {
